@@ -18,11 +18,3 @@ This project allows you to upload any .gb, .gbk, or .gbff file and instantly:
 ✔ Streamlit-based UI (no command line needed)  
 
 ---
-
-## 📦 Installation  
-Follow these steps to run the project on your machine.
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/Prabhanjan-31/biopy_genome.git
-cd biopy_genome
