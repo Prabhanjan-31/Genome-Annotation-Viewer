@@ -18,3 +18,12 @@ This project allows you to upload any .gb, .gbk, or .gbff file and instantly:
 ✔ Streamlit-based UI (no command line needed)  
 
 ---
+
+## Execution
+1. Clone the repository
+2. Install the required packages
+    pip install -r requirements.txt
+3. Run
+    run.bat
+4. upload the .gb or .gbff file and see the result
+   
