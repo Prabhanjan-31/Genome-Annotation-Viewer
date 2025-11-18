@@ -1,0 +1,23 @@
+#Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc 
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data - ignore large files
+dna/*
+!dna/example.gb
+
+# Streamlit cache
+.streamlit/
