@@ -5,7 +5,7 @@ import io
 import time
 
 from genbank_parser import parse_genbank
-
+print("hello genome viewer")
 # Optional Lottie animation
 try:
     from streamlit_lottie import st_lottie

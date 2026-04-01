@@ -1,0 +1,7 @@
+build:
+  script:
+    - echo "Running Python Build"
+
+run_tests:
+  script:
+    - echo "Running Python Tests"
