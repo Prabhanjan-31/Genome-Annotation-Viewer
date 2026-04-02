@@ -4,5 +4,5 @@ for ($i=1; $i -le 5; $i++) {
   git commit -m "auto push $i"
   git push
 
-  Start-Sleep -Milliseconds 500
+  Start-Sleep -Milliseconds 1500
 }
