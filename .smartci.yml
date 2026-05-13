@@ -1,7 +1,9 @@
 build:
   script:
+    - powershell -Command "Start-Sleep -Seconds 15"
     - echo "Running Python Build"
 
 run_tests:
   script:
+    - powershell -Command "Start-Sleep -Seconds 15"
     - echo "Running Python Tests"
