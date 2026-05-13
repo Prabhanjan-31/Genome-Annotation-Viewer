@@ -1,9 +1,9 @@
 build:
   script:
-    - timeout /t 15
+    - powershell -Command "Start-Sleep -Seconds 15"
     - echo "Running Python Build"
 
 run_tests:
   script:
-    - timeout /t 15
+    - powershell -Command "Start-Sleep -Seconds 15"
     - echo "Running Python Tests"
