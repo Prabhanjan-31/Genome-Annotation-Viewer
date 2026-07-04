@@ -16,7 +16,6 @@ This project allows you to upload any .gb, .gbk, or .gbff file and instantly:
 ✔ Clean metadata summary  
 ✔ Interactive timeline genome visualization  
 ✔ Streamlit-based UI (no command line needed)  
-
 ---
 
 <img width="1910" height="695" alt="Screenshot 2025-11-16 164925" src="https://github.com/user-attachments/assets/c2a44025-4698-42a9-a939-17c15927ede3" />
